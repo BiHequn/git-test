@@ -1,2 +1,4 @@
 timeout_ms=15000
 max_speed=2.0
+accessibility_speed=0.75
+accessibility_mode=true
