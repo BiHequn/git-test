@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bob content
+=======
+Alice Content
+>>>>>>> conflict/alice
