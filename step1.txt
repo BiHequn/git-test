@@ -1,1 +1,1 @@
-value=alice
+value=bob+alice
